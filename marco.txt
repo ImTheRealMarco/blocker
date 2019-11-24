@@ -9,3 +9,7 @@
 teltarif.de##div#LxComments.ttBx.noprint
 !
 !--------Remove Comments on Google's services---------!
+!
+!-------Youtube ---------!
+!
+youtube.com###comments
