@@ -1,0 +1,11 @@
+! Title: Marco's ad and comment blocker
+! Last modified: %timestamp%
+! Expires: 1 days (update frequency)
+!
+!
+!----------------Remove stupid German comments-----------------!
+!
+!--comments area below articles on teltarif.de--!
+teltarif.de##div#LxComments.ttBx.noprint
+!
+!--------Remove Comments on Google's services---------!
